@@ -7,4 +7,7 @@ def ejer1():
 def ejer2():
     print("\"tella\"")
 
-ejer2() 
+def ejer3():
+   x=int(input ("ingrese x :"))
+   y=int(input 
+

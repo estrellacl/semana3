@@ -1,0 +1,8 @@
+C:\Users\UPN\Documents\coinsol\coinsol\bin\Debug\coinsol.exe.config
+C:\Users\UPN\Documents\coinsol\coinsol\bin\Debug\coinsol.exe
+C:\Users\UPN\Documents\coinsol\coinsol\bin\Debug\coinsol.pdb
+C:\Users\UPN\Documents\coinsol\coinsol\obj\Debug\semana 3 c#.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\coinsol\coinsol\obj\Debug\coinsol.exe.config
+C:\Users\UPN\Documents\coinsol\coinsol\obj\Debug\semana 3 c#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\coinsol\coinsol\obj\Debug\coinsol.exe
+C:\Users\UPN\Documents\coinsol\coinsol\obj\Debug\coinsol.pdb

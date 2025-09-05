@@ -11,7 +11,7 @@ namespace coinsol
         static void Main(string[] args)
         {
 
-            ejer1();
+            ejer3();
             Console.ReadKey();//relizando detenemiento de consola 
         }
         static void ejer1()
@@ -31,6 +31,23 @@ namespace coinsol
         static void ejer2()
         {
             Console.WriteLine("\"tella\"");
+        }
+
+        static void ejer3()
+        {
+            Console.Write("Ingese x:");
+            int x = int.Parse(Console.ReadLine());
+
+            Console.Write("Ingrese y :");
+            int y = Convert.ToInt32(Console.ReadLine());
+
+            int sum = x + y;
+            double divi = (double) x / (double) y;
+
+            Console.WriteLine("\nSuma:" + sum);
+            Console.WriteLine("Rest:" + (x - y 
+            Console.WriteLine("multi:" + (x *y));
+            Console.WriteLine("division:" + (x /y));
         }
     
     }
