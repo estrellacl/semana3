@@ -1,0 +1,7 @@
+C:\Users\UPN\Documents\coinsol\coinsol\bin\Debug\coinsol.exe.config
+C:\Users\UPN\Documents\coinsol\coinsol\bin\Debug\coinsol.exe
+C:\Users\UPN\Documents\coinsol\coinsol\bin\Debug\coinsol.pdb
+C:\Users\UPN\Documents\coinsol\coinsol\obj\Debug\coinsol.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\coinsol\coinsol\obj\Debug\coinsol.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\coinsol\coinsol\obj\Debug\coinsol.exe
+C:\Users\UPN\Documents\coinsol\coinsol\obj\Debug\coinsol.pdb
