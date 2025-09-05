@@ -27,6 +27,12 @@ namespace coinsol
 
             Console.WriteLine($"\n{nombre},bienvenido al curso FA DE {carrera}");
         }
+         
+        static void ejer2()
+        {
+            Console.WriteLine("\"tella\"");
+        }
+    
     }
 
 }
